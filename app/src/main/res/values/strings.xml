@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Searchview</string>
+    <string name="searchable">Search</string>
+    <string name="help">All Names</string>
+    <string name="Exit">Exit</string>
+
+    <string-array name="index">
+        <item>Salim</item>
+        <item>Mohammed</item>
+        <item>wafa</item>
+        <item>abdo</item>
+        <item>feras</item>
+        <item>marya</item>
+        <item>Saeed</item>
+        <item>Amur</item>
+        <item>Ali</item>
+        <item>Alaa</item>
+        <item>Umar</item>
+        <item>Khaled</item>
+    </string-array>
+</resources>
